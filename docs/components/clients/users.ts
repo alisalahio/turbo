@@ -457,4 +457,11 @@ export const users: Array<TurboUser> = [
     infoLink: "https://agrotoken.io",
     pinned: true,
   },
+  {
+    caption: "Instatus",
+    image: "/images/logos/instatus.svg",
+    infoLink: "https://instatus.com",
+    pinned: true,
+  },
+
 ];
